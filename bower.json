@@ -1,0 +1,19 @@
+{
+  "name": "ko-grid-visibility-detection",
+  "main": "dist/ko-grid-visibility-detection.js",
+  "description": "A ko-grid extension which tries to react to changes in visibility.",
+  "authors": ["Ben Schulz (https://github.com/benschulz)"],
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "ko-grid",
+    "visibility"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/benschulz/ko-grid-visibility-detection.git"
+  },
+  "dependencies": {
+    "knockout": "^3.3.0",
+    "ko-grid": "benschulz/ko-grid"
+  }
+}
